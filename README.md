@@ -3,7 +3,6 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm PhD in Electronic Engineering working for in Agricultural Robotics at UC Davis 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write scientific articles [google scholar]([https://apoorvtyagi.tech/](https://scholar.google.cl/citations?hl=es&user=z6Qp2ogAAAAJ&view_op=list_works&gmla=AJsN-F6tWkqUW7XigY1DYuXj77BsxZ15rrGplvgrO0ak83RdSfMX7PUK3asO7H6VESG0JGd149EJyBmZW4IsaIUuMmlAL3FF4uv0sveYVDZKgW7t500YevEOsTojkiGBVlVMRL13-kNcbOWs3ECfr24HkSMhvEJRH9VvMt-O1IEzAykVKEWs4KgbI2vM_KwhX-9eTRhYRZZ9dE6s7775dxszJlPGjLiUOw))
 - 💻 I use daily a lot of hardware and sensors and code mostly in: **ros**, **python**, **c++**
 - 📖 I am currently reading **Data science on AWS** by Fregly & Barth
 - 💬 Talk to me about crypto, web 3.0, silicon valley & startups
