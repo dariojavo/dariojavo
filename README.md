@@ -1,7 +1,7 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm PhD in Electronic Engineering working for in Agricultural Robotics at UC Davis 
+- 🏦 I'm PhD in Electronic Engineering working in Agricultural Robotics at UC Davis 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily a lot of hardware and sensors and code mostly in: **ros**, **python**, **c++**
 - 📖 I am currently reading **Data science on AWS** by Fregly & Barth
