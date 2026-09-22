@@ -1,11 +1,6 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm PhD in Electronic Engineering and co-founder of Agscout. 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily a lot of hardware and sensors and code mostly in: **ros**, **python**, **c++**
-- 👯 We can connect to play some games of Catan
-- ⚡ Fun fact: Soy de Ecuador, en la mitad del mundo
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
